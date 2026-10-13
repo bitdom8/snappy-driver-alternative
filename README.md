@@ -18,11 +18,11 @@ To ensure fast and reliable downloads without GitHub file size limits, all drive
 
 | Brand | Description | Download Link |
 | :--- | :--- | :--- |
-| **Dell** | Complete driver pack for Dell laptops/desktops | [Download Here](YOUR_CLOUD_LINK_HERE) |
-| **HP** | Complete driver pack for HP systems | [Download Here](YOUR_CLOUD_LINK_HERE) |
-| **Lenovo** | ThinkPad and IdeaPad drivers | [Download Here](YOUR_CLOUD_LINK_HERE) |
-| **Asus** | Complete driver pack for Asus systems | [Download Here](YOUR_CLOUD_LINK_HERE) |
-| **Acer** | Complete driver pack for Acer systems | [Download Here](YOUR_CLOUD_LINK_HERE) |
+| **Dell** | Complete driver pack for Dell laptops/desktops 
+| **HP** | Complete driver pack for HP systems 
+| **Lenovo** | ThinkPad and IdeaPad drivers 
+| **Asus** | Complete driver pack for Asus systems
+| **Acer** | Complete driver pack for Acer systems 
 
 *(Add or remove rows as needed based on your library)*
 
